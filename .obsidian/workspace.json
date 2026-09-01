@@ -152,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Start.md"
+                "file": "tryLangKUngMagSave/hahaha.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline"
             }
           },
           {
@@ -201,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f7ab235266411c",
+  "active": "28e7420793514278",
   "lastOpenFiles": [
     "PPSA/Set up.md",
     "tryLangKUngMagSave/hahaha.md",
