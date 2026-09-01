@@ -1,0 +1,217 @@
+- logs
+ - actor_type
+  - admins
+  - users
+ - morph_type
+  - any table names that needed logging, i.e clearances, users
+ - type
+  - check `log-type.enum.ts` file
+
+
+
+
+- notifications
+ - morph_type
+  - any table names that needed notification, i.e clearances
+
+
+
+- notification_users
+ - morph_type
+  - admins
+  - users
+- ext_msgs
+ - type
+  - SMS
+  - EMAIL
+- holidays
+ - This table is dynamic, but for the fixed name values
+  - see `regular-holidays.enum.ts` > `name` property
+   - Maundy Thursday
+   - Good Friday
+
+
+- addresses
+ - morph_type
+  - any table names that needed address information, i.e applicants
+ - type
+  - PERMANENT
+  - CURRENT
+
+
+
+- psgcs
+ - geo_graphic_level
+  - use distinct query on postgres
+- roles
+ - name
+  - Operator
+  - Record Checker
+  - Quality Control
+  - Applicant
+  - Administrator
+  - Verifier
+- user_roles
+ - morph_type
+  - admins
+  - users
+- applicant_identifications
+ - type
+  - Ask alex on what values thay are using
+- applicants
+ - applicant_type
+  - Local
+  - Foreign
+ - salutation
+  - Mr
+  - Mrs
+ - gender
+  - MALE
+  - FEMALE
+ - civil_status
+  - SINGLE
+  - MARRIED
+  - SEPARATED
+    WIDOW
+  - DIVORCED
+  - ANNULLED
+  - WIDOWER
+  - SINGLE PARENT
+ - citizenship
+  - Search, then ask me to validate
+ - educ_attainment
+  - Ask alex on what values thay are using
+ - religion
+  - Ask alex on what values thay are using
+ - complexion
+  - Ask alex on what values thay are using
+- files
+ - morph_type
+  - any table names that needed file saving, i.e clearances, users
+ - content_type
+  - application/pdf
+  - image/jpeg
+  - image/png
+- apps
+ - name
+  - ECPIS
+- user_tokens
+ - morph_type
+  - admins
+  - users
+- user_otps
+ - morph_type
+  - admins
+  - users
+- user_relatives
+ - type
+  - PARTNER
+  - FATHER
+  - MOTHER
+- user_biometrics_items
+ - type
+  - Facial
+  - Fingerprint
+ - subType
+  - Right Thumb
+  - Left Thumb
+  - List all fingers
+- billings
+ - morph_type
+  - any table names that needed billing, i.e clearances
+ - status
+  - For Payment
+  - Paid
+- fees
+ - name
+  - First time Job Seeker
+  - New
+  - Renewal
+- branches
+ - name
+  - TBD; will be determined after the migration.
+ - code
+  - TBD; will be determined after the migration
+ - type
+  - TBD; will be determined after the migration
+- clr_releases
+ - status
+  - Pending
+  - In Transit
+  - Delivered
+  - Completed
+ - type
+  - PICKUP
+  - DELIVERY
+- clearances
+ - status
+  - Submitted
+  - Pending Payment
+  - Confirmed
+  - For Further Validation
+  - Biometrics Capture
+  - For Interview
+  - For Issuance
+  - Rejected
+  - Released
+- appointments
+ - morph_type
+  - any table names that needed appoinements, i.e clearances
+ - status
+  - Pending
+  - For Payment
+  - Paid
+  - Expired
+ - slot
+  - AM
+  - PM
+- case_ownerships
+ - type
+  - NSP
+  - SP
+- clr_request_batches
+ - status
+  - Pending
+  - In Progress
+  - Completed
+- clr_requests
+ - type
+  - RC
+  - QC
+ - status
+  - In Progress
+  - Pending
+  - Completed
+  - For Referral Form Fill-up
+  - Rejected
+  - Cleared
+  - Error
+  - For Final Quality Control
+  - With Pending Requirements
+ - job_status
+  - In Progress
+  - Pending
+  - Completed
+- clr_request_cases
+ - court_name
+  - TBD; will be determined after the migration.
+ - case_nature
+  - TBD; will be determined after the migration.
+ - gender
+  - TBD; will be determined after the migration.
+ - citizenship
+  - TBD; will be determined after the migration.
+ - civil_status
+  - TBD; will be determined after the migration.
+ - result
+  - NSP
+  - SP
+  - WDR
+  - NDR
+- branch_slots
+ - slot
+  - AM
+  - PM
+- payment_gateways
+ - name
+  - TBD; will be determined after the meeting with the NBI payment gateway provider.

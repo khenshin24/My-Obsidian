@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "tabSize": 2,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source"
+}
