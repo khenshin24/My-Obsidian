@@ -11,10 +11,14 @@
             "id": "bd157d406399619b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git/How to connect Obsidian in Git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to connect Obsidian in Git"
             }
           }
         ]
@@ -202,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623ef27f72fd77cd",
+  "active": "bd157d406399619b",
   "lastOpenFiles": [
+    "Git/git.md",
+    "Git/How to connect Obsidian in Git.md",
+    "Untitled",
     "tryLangKUngMagSave/hahaha.md",
     "PPSA/Set up.md",
     "tryLangKUngMagSave",
@@ -234,8 +241,6 @@
     "PPSA/Note.md",
     "PPSA/Coding.md",
     "PPSA/Angular.md",
-    "Laravel/Angular.md",
-    "Laravel/SMS.md",
     "Docker/Untitled.base",
     "Attachments/Pasted image 20260116144417.png",
     "Reset",
@@ -249,7 +254,6 @@
     "Attachments/Pasted image 20250116225633.png",
     "Attachments/Pasted image 20250116225620.png",
     "Docker",
-    "Untitled 1.base",
     "Untitled.canvas"
   ]
 }
