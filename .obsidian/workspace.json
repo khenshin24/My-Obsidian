@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bun/ECPIS.md",
+                "file": "APN Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECPIS"
+              "title": "APN Settings"
             }
           }
         ]
@@ -208,8 +208,10 @@
   },
   "active": "bd157d406399619b",
   "lastOpenFiles": [
-    "Bun/Install bun inside your project not global.md",
+    "Untitled.md",
+    "APN Settings.md",
     "Bun/ECPIS.md",
+    "Bun/Install bun inside your project not global.md",
     "Git/How to connect Obsidian in Git.md",
     "Git/git.md",
     "Untitled",
@@ -230,7 +232,6 @@
     "ML",
     "GHL.md",
     "Windows Activation/Activate Windows.md",
-    "Untitled.md",
     "Keyboard.md",
     "Pc Format/Need to install after format.md",
     "PFIS/Node js.md",
@@ -240,7 +241,6 @@
     "Windows Activation",
     "Bun",
     "PPSA/Note.md",
-    "PPSA/Coding.md",
     "Docker/Untitled.base",
     "Attachments/Pasted image 20260116144417.png",
     "Reset",
