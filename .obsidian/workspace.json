@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/How to connect Obsidian in Git.md",
+                "file": "Bun/Install bun inside your project not global.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to connect Obsidian in Git"
+              "title": "Install bun inside your project not global"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LRA",
+                "query": "NBI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd157d406399619b",
+  "active": "623ef27f72fd77cd",
   "lastOpenFiles": [
-    "Git/git.md",
     "Git/How to connect Obsidian in Git.md",
+    "Git/git.md",
     "Untitled",
     "tryLangKUngMagSave/hahaha.md",
     "PPSA/Set up.md",
