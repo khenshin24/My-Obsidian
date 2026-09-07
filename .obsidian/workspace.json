@@ -86,8 +86,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd157d406399619b",
+  "active": "623ef27f72fd77cd",
   "lastOpenFiles": [
     "APN Settings.md",
     "Untitled.md",
