@@ -22,4 +22,4 @@
 		- commit and push
 
 	
-	pull changes from uat-findings-2 to DEV branch
+	pull changes from uat-findings-2 to DEV branch then git push
