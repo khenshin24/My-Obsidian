@@ -7,3 +7,8 @@
 	- Build Backend
 		- `npm run clean`
 		- `npm run build`
+		- npm run dev
+			- this will create tables 
+		- run triggers
+			- `psql -h localhost -U postgres -d pfis_1 -f TRIGGERS.sql`
+		- 
