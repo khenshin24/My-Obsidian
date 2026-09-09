@@ -1,6 +1,8 @@
 
 - Git pull all branch in trello 
 	- `git pull origin branch`
+	- All branches merge to uat-findings-2
+
 - Database Change
 	- Backup Current Database
 	- Reset Database
@@ -19,5 +21,5 @@
 			- Move the tmp/DEV.sql file
 		- commit and push
 
-
+	
 	pull changes from uat-findings-2 to DEV branch
