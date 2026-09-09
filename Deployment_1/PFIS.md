@@ -14,3 +14,10 @@
 		- npm run dev
 			- Seed Masterfiles
 		- Backup Database
+			- save as DEV.sql
+			- make sure Dev branch
+			- Move the tmp/DEV.sql file
+		- commit and push
+
+
+	pull changes from uat-findings-2 to DEV branch
