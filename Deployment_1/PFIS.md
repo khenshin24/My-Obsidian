@@ -11,4 +11,6 @@
 			- this will create tables 
 		- run triggers
 			- `psql -h localhost -U postgres -d pfis_1 -f TRIGGERS.sql`
-		- 
+		- npm run dev
+			- Seed Masterfiles
+		- Backup Database
