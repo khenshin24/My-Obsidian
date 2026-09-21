@@ -23,3 +23,13 @@
 
 	
 	pull changes from uat-findings-2 to DEV branch then git push
+
+
+Reset-Database
+	github
+	 PFIS-Server-Files
+		- Action
+		- DEV
+		- Run work flow
+		- DEV
+		- Deploy
