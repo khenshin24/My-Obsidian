@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7b52867e761a7c",
+        "id": "b4fa4c9fac497d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb114d41449e681b",
+            "id": "85fd0bf2e1bbda1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ollama/Untitled.md",
+                "file": "Deployment_1/PFIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "PFIS"
             }
           }
         ]
@@ -206,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb114d41449e681b",
+  "active": "85fd0bf2e1bbda1a",
   "lastOpenFiles": [
+    "Deployment/Deployment.md",
+    "Deployment/Deployment No Database Change.md",
     "Deployment_1/PFIS.md",
     "Ollama/Untitled.md",
     "Ollama",
@@ -239,8 +241,6 @@
     "Keyboard.md",
     "Pc Format/Need to install after format.md",
     "PFIS/Node js.md",
-    "Pc Format/SSH Key Gen.md",
-    "PFIS/Reset Database.md",
     "Windows Activation",
     "Bun",
     "Docker/Untitled.base",
