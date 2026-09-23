@@ -5,7 +5,9 @@
 
 - Database Change
 	- Backup Current Database
+		- git terminal cmd pfis-db-backup.sh
 	- Reset Database
+		- git terminal cmd pfis-db-reset.sh
 	- Build Backend
 		- `npm run clean`
 		- `npm run build`
