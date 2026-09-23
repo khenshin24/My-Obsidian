@@ -18,7 +18,9 @@
 			- `psql -h localhost -U postgres -d pfis_1 -f TRIGGERS.sql`
 		- npm run dev
 			- Seed Masterfiles
-		- Backup Database
+		- Backup Database have No uat-findings-2 branch only DEV-DOTUAT-PROD
+		- DEV branch
+		- git terminal cmd pfis-db-backup.sh
 			- save as DEV.sql
 			- Move the tmp/DEV.sql file to PFIS.Server.Files
 		- commit and push
