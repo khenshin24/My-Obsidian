@@ -1,7 +1,13 @@
 
+	AKS first kung may nag TETEST
+
 - Git pull all branch in trello 
 	- `git pull origin branch`
 	- All branches merge to uat-findings-2
+
+	Database in DEV > DOTUAT > PROD
+	 Same Same lang yan sila Meaning Sa DEV pag mag papadeploy sa DOTUAT and PROD
+			copy the DEV.sql then Rename as DOTUAT and PROD
 
 - Database Change
 	- Backup Current Database
