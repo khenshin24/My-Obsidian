@@ -36,3 +36,10 @@ Reset-Database
 		- `Run work flow`
 		- `DEV`
 		- `Deploy`
+
+
+
+DOTUAT branch Deploys both to IBM and UAT
+
+
+Deploy to PROD
