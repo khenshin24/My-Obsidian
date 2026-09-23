@@ -43,5 +43,8 @@ DOTUAT branch Deploys both to IBM and UAT
 	git pull
 		git pull origin DEV
 			git push
+	
+	database conflict 
+		accept all incoming
 
 Deploy to PROD
