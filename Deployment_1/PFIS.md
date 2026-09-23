@@ -37,9 +37,11 @@ Reset-Database
 		- `DEV`
 		- `Deploy`
 
-
+uat-findings-2 > DEV > DOTUAT > PROD
 
 DOTUAT branch Deploys both to IBM and UAT
-
+	git pull
+		git pull origin DEV
+			git push
 
 Deploy to PROD
