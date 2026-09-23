@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment_1/PFIS.md",
+                "file": "Ollama/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PFIS"
+              "title": "Untitled"
             }
           }
         ]
@@ -208,8 +208,10 @@
   },
   "active": "eb114d41449e681b",
   "lastOpenFiles": [
-    "Pc Format/Account.md",
     "Deployment_1/PFIS.md",
+    "Ollama/Untitled.md",
+    "Ollama",
+    "Pc Format/Account.md",
     "Deployment_1",
     "APN Settings.md",
     "Untitled.md",
@@ -239,12 +241,10 @@
     "PFIS/Node js.md",
     "Pc Format/SSH Key Gen.md",
     "PFIS/Reset Database.md",
-    "Deployment/Deployment.md",
     "Windows Activation",
     "Bun",
     "Docker/Untitled.base",
     "Attachments/Pasted image 20260116144417.png",
-    "Reset",
     "Attachments/Pasted image 20250918100318.png",
     "Attachments/Pasted image 20260105161909.png",
     "Attachments/Pasted image 20250918100313.png",
