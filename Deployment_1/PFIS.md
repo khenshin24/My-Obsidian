@@ -14,6 +14,7 @@
 		- npm run dev
 			- this will create tables 
 		- run triggers
+			- inside the project
 			- `psql -h localhost -U postgres -d pfis_1 -f TRIGGERS.sql`
 		- npm run dev
 			- Seed Masterfiles
