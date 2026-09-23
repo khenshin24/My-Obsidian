@@ -20,7 +20,6 @@
 			- Seed Masterfiles
 		- Backup Database
 			- save as DEV.sql
-			- make sure Dev branch
 			- Move the tmp/DEV.sql file to PFIS.Server.Files
 		- commit and push
 
@@ -40,6 +39,12 @@ Reset-Database
 uat-findings-2 > DEV > DOTUAT > PROD
 
 DOTUAT branch Deploys both to IBM and UAT
+
+	DOTUAT -> git pull origin DEV
+	 Backend
+	 Web
+	 Database
+	 
 	git pull
 		git pull origin DEV
 			git push
@@ -47,4 +52,9 @@ DOTUAT branch Deploys both to IBM and UAT
 	database conflict 
 		accept all incoming
 
-Deploy to PROD
+deploy PROD
+	branch PROD > git pull DOTUAT
+	 backend
+	 web
+	 database
+
