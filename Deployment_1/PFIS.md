@@ -21,7 +21,7 @@
 		- Backup Database
 			- save as DEV.sql
 			- make sure Dev branch
-			- Move the tmp/DEV.sql file
+			- Move the tmp/DEV.sql file to PFIS.Server.Files
 		- commit and push
 
 	
