@@ -28,8 +28,8 @@
 Reset-Database
 	github
 	 PFIS-Server-Files
-		- Action
-		- DEV
-		- Run work flow
-		- DEV
-		- Deploy
+		- `Action`
+		- `DEV`
+		- `Run work flow`
+		- `DEV`
+		- `Deploy`
