@@ -70,3 +70,6 @@ deploy PROD
 
 commit Message "updated
 
+Checking status 
+	in project `gh run watch`
+
