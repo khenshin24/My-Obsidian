@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bun/Install bun inside your project not global.md",
+                "file": "Pc Format/Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install bun inside your project not global"
+              "title": "Account"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "account",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,13 +222,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94edce00b3782d45",
+  "active": "fc3e2b4ac3045181",
   "lastOpenFiles": [
+    "Bun/Install bun inside your project not global.md",
     "Deployment_1/PFIS.md",
     "Git/git.md",
     "Deployment/Deployment.md",
     "Deployment/Deployment No Database Change.md",
-    "Bun/Install bun inside your project not global.md",
     "Bun/ECPIS.md",
     "Activation.md",
     "Activation",
