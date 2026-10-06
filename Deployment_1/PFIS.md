@@ -42,6 +42,19 @@
 			//   .catch((error) => {
 			//     console.error("Error syncing models:", error);
 			//   });`
+	  
+	  uat-findings-2 REVERSE
+	  `// configDotenv({ path: ".env" }); // this code must be always in top
+		 configDotenv({ path: "./src/.env" }); // this code must be always in top`
+		`
+		 db.sync({ force: false }) // set to true if you want to drop the tables and recreate them
+			   .then(() => {
+			     console.log("Models synced with the database.");
+			   })
+			   .catch((error) => {
+			     console.error("Error syncing models:", error);
+			   });
+		  
 	
 	pull changes from uat-findings-2 to DEV branch then git push
 
