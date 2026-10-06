@@ -1,6 +1,18 @@
 
 	AKS first kung may nag TETEST
 
+	ALWAYS CHECK THE APP.TS IN DEV BRANCH 
+		`configDotenv({ path: ".env" }); // this code must be always in top
+		// configDotenv({ path: "./src/.env" }); // this code must be always in top`
+		`
+		// db.sync({ force: false }) // set to true if you want to drop the tables and recreate them
+			//   .then(() => {
+			//     console.log("Models synced with the database.");
+			//   })
+			//   .catch((error) => {
+			//     console.error("Error syncing models:", error);
+			//   });`
+
 - Git pull all branch in trello 
 	- `git pull origin branch`
 	- All branches merge to uat-findings-2
