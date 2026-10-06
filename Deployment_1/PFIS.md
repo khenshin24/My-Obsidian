@@ -73,3 +73,26 @@ commit Message "updated
 Checking status 
 	in project `gh run watch`
 
+
+
+
+
+
+
+
+
+In DEV Branch 
+	comment this
+		configDotenv({ path: ".env" }); // this code must be always in top
+	Un comment this
+		// configDotenv({ path: "./src/.env" }); // this code must be always in top
+
+Un Comment this 
+	`// db.sync({ force: false }) // set to true if you want to drop the tables and recreate them
+	//   .then(() => {
+	//     console.log("Models synced with the database.");
+	//   })
+	//   .catch((error) => {
+	//     console.error("Error syncing models:", error);
+	//   });`
+
