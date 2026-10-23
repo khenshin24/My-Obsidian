@@ -120,3 +120,8 @@ Un Comment this
 	//     console.error("Error syncing models:", error);
 	//   });`
 
+
+
+
+Failed
+	Re run only Failed Jobs
