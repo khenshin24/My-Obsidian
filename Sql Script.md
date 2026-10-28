@@ -1,0 +1,8 @@
+
+
+ALTER TABLE wfpprojects
+ALTER COLUMN name TYPE VARCHAR(1000);
+
+
+ALTER TABLE wfoactivities
+ALTER COLUMN name TYPE VARCHAR(1000);
