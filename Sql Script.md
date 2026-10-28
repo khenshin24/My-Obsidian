@@ -9,12 +9,12 @@ ALTER COLUMN name TYPE VARCHAR(1000);
 
 
 
-Backend : PFIS-166  
-.
 
-.
 
-.
+
+ALTER TABLE orgunits
+ALTER COLUMN code TYPE VARCHAR(20);
+
 
 - FROM: Office of Human Capital Development  
     TO: Office of Industry Manpower Development
