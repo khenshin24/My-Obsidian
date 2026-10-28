@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deployment_1/PFIS.md",
+                "file": "Sql Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PFIS"
+              "title": "Sql Script"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Import database"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f0c6642b1a5359",
+  "active": "fc3e2b4ac3045181",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Postgres/Import database.md",
+    "Deployment_1/PFIS.md",
     "Postgres/CMD Terminal.md",
     "Sql Script.md",
-    "Deployment_1/PFIS.md",
     "Deployment/Deployment.md",
     "Deployment/Deployment No Database Change.md",
     "Pc Format/Account.md",
@@ -239,7 +240,6 @@
     "Ollama",
     "Deployment_1",
     "APN Settings.md",
-    "Untitled.md",
     "Git/How to connect Obsidian in Git.md",
     "Untitled",
     "tryLangKUngMagSave/hahaha.md",
@@ -256,7 +256,6 @@
     "PFIS/PFIS.md",
     "ML/Untitled.md",
     "ML",
-    "GHL.md",
     "Windows Activation",
     "Bun",
     "Attachments/Pasted image 20260116144417.png",
