@@ -125,3 +125,9 @@ Un Comment this
 
 Failed
 	Re run only Failed Jobs
+
+
+IN uat-findings-2 branch then pull in Dev and DOTUAT , in PFIS.SERVER.FILES
+DOTUAT reset users
+	Seeder.model.ts
+![[Pasted image 20261103133704.png]]

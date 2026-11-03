@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sql Script.md",
+                "file": "Deployment_1/PFIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sql Script"
+              "title": "PFIS"
             }
           },
           {
@@ -221,13 +221,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94edce00b3782d45",
+  "active": "fc3e2b4ac3045181",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261103133704.png",
+    "Sql Script.md",
     "Untitled.md",
     "Postgres/Import database.md",
     "Deployment_1/PFIS.md",
     "Postgres/CMD Terminal.md",
-    "Sql Script.md",
     "Deployment/Deployment.md",
     "Deployment/Deployment No Database Change.md",
     "Pc Format/Account.md",
@@ -255,7 +256,6 @@
     "Docker/Docker Installation.md",
     "Ai Luna Model",
     "PFIS/PFIS.md",
-    "ML/Untitled.md",
     "ML",
     "Windows Activation",
     "Bun",
