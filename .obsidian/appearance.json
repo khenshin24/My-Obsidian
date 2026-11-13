@@ -4,5 +4,6 @@
   "textFontFamily": "Cascadia Mono",
   "interfaceFontFamily": "Cascadia Code",
   "baseFontSize": 16,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
